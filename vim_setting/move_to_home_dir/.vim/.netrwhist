@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/etc/rc0.d'
+let g:netrw_dirhist_2='/etc/rc1.d'
+let g:netrw_dirhist_3='/home/amber/workspace/ipc/Hi3518_SDK_V1.0.9.0/.svn'
+let g:netrw_dirhist_4='/home/amber/Documents/slpServer/admin'
+let g:netrw_dirhist_5='/home/nvr/torchlight_hi_nvr/torchlight/tp_package/luci/luci-0.11.1/html/tile_1.0/OEM/hi3520dboard/torchlight/web-static/dynaform'
+let g:netrw_dirhist_6='/home/amber/.vim'
+let g:netrw_dirhist_7='/home/w'
+let g:netrw_dirhist_8='/ipc/torchlight_hi_ipc/torchlight/product_config'
